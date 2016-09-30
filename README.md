@@ -37,7 +37,7 @@ After collecting enough money, at the end of each turn, user will be able to pur
 ```
 via market.
 
- The spaceship will have its own **health points(HP)**. Each amount of damage done by the alien shot will be subtracted from the HP and when it reaches 0, spaceship will destroy and game will end.
+ The spaceship will have its own **health points(HP)**. Each amount of damage done by the alien shot will be subtracted from the HP and when it reaches 0, spaceship will destroy and the game will end.
  
  <h2 align="center"> Group 18 </h2>
  <img src="http://i64.tinypic.com/jgnrly.png" align="center" />
