@@ -23,7 +23,7 @@ might drop.
 
 
 <img align="left" src="http://i66.tinypic.com/2dkhg87.png"/>
- By killing more aliens, depending on the experience points collected, user may rank up at the end of each turn. When enough turns are passed, a ***boss*** will appear, and expectedly will produce more damage if manages to hit the ship and will be harder to kill, yet, accordingly will drop more items and give more experience than any regular alien.
+ By killing more aliens, depending on the experience points collected, user may rank up at the end of each turn. When enough turns are passed, a ***boss*** will appear, and expectedly will produce more damage if manages to hit the ship. Not surprisingly, the boss will be harder to kill, yet, will accordingly drop more items and give more experience than any regular alien.
 
 
 After collecting enough money, at the end of each turn, user will be able to purchase:
