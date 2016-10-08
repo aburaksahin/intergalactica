@@ -35,6 +35,8 @@ After collecting enough money, at the end of each turn, user will be able to pur
 - Score multiplier
 - To be added..
 ```
+<sup>   Image from <a href="https://en.wikipedia.org/wiki/Galaga"> Galaga Wiki page. </a></sup>
+
 via market.
 
  The spaceship will have its own **health points(HP)**. Each amount of damage done by the alien shot will be subtracted from the HP and when it reaches 0, spaceship will destroy and the game will end.
